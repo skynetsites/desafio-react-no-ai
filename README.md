@@ -8,7 +8,7 @@ Crie uma aplicação onde:
 Aplicação criada com **Vite + React** onde:  
 - Ao clicar na página, um círculo vermelho é renderizado na posição do clique.  
 - Círculos anteriores permanecem na tela.  
-- Botões no rodapé:  
+- Botões no topo:  
   - **Desfazer (Undo)**: remove o último círculo.  
   - **Refazer (Redo)**: adiciona novamente o último círculo removido.
 
