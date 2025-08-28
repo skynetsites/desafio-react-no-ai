@@ -43,18 +43,15 @@ npm run dev
 VITE v7.1.2 ready in 1630 ms
 
 ➜ Local: http://localhost:5173/
-```
 
 ## Autor
 
 **Isaias Oliveira**  
 [LinkedIn](https://www.linkedin.com/in/skynetsites/)
-```
 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-```
 
 ---
 
