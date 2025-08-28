@@ -1,0 +1,41 @@
+body {
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+div > div {
+  position: absolute;
+  top: 1rem;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+  z-index: 5;
+}
+
+svg {
+  position: relative;
+  width: 100vw;
+  height: 100vh; 
+  cursor: crosshair;
+  z-index: 1;
+}
+
+button {
+  background-color: red;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+
+button + button {
+  background-color: green;
+}
+
