@@ -1,7 +1,6 @@
 # Desafio de React (no AI)
 
 Vamos estudar! 
-Crie uma aplicação onde: 
 
 ## Descrição
 
