@@ -1,6 +1,5 @@
 body {
   background-color: #f0f0f0;
-  margin: 0;
   padding: 0;
   height: 100vh;
   overflow: hidden;
@@ -29,6 +28,7 @@ svg {
 button {
   background-color: red;
   padding: 0.5rem 1rem;
+  border: none;
   border-radius: 0.5rem;
   cursor: pointer;
   color: white;
